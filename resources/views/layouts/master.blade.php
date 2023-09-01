@@ -136,7 +136,7 @@
                         <div class="menu-content">
                             <ul class="menu-list">
                                 <li>
-                                    <a href="#">Home</a>
+                                    <a href="/">Home</a>
 
                                 </li>
 
